@@ -1,0 +1,9 @@
+How to use:
+- Download and install NodeJS https://nodejs.org
+- Create a new folder on your computer
+- Open the folder in PowerShell/CMD
+- Run "npm i mineflayer"
+- Copy in "bot.js"
+- Modify the settings to your likings
+- Run "node bot.js" in PowerShell/CMD
+- Wait a bit, and your bots should be in the server!
